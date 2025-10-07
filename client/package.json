@@ -2,14 +2,13 @@
 
 
 {
-  "name": "fronted",
+  "name": "client",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "npx vite build",
-    "preview": "vite preview",
-
+    "preview": "vite preview"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
